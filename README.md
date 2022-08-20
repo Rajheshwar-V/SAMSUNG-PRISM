@@ -1,2 +1,3 @@
-# SAMSUNG PRISM
- Created on 20.08.2022
+# KCT_SE23KCT_Report_Generation_with_image_Viewer
+SRIB-PRISM Program
+
